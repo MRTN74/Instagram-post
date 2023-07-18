@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: whitesmoke;
+    width: 420px;
+    height: 580px;
+    margin: auto;
+    display: block;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+.head{
+    display: flex;
+    padding-bottom: 3px;
+    margin-top: 9px;
+}
+.htmllogo{
+    font-size: 36px;
+    color: black;
+}
+.user{
+    margin: 0%;
+    float: left;
+}
+.dots{
+    margin-left: 315px;
+    font-size: 35px;
+    color: black;
+    
+}
+.pbody{
+    width: 410px;
+    margin: none;
+    padding-right: 10px;
+    height: 320px;
+    background-image: url(https://st4.depositphotos.com/4749861/25333/i/450/depositphotos_253332156-stock-photo-landscapes-image-of-mt-fuji.jpg);
+}
+.icons{
+    display: flex;
+}
+.like{
+    color: black;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.comment{
+    color: black;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.share{
+    color: black;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
+.save{
+    color: black;
+    font-size: 30px;
+    margin-left: 287px;
+    margin-top: 8px;
+}
+.info{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.foot{
+    margin-left: 5px;
+    margin-top: 20px;
+}
